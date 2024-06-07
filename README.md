@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a student of Computer Systems Engineering at the Universidad de El Salvador
+
+- 🔭 I’m currently working on API Java
+- 🌱 I’m currently learning Kotlin
+
 <!--
 **wacodev/wacodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
